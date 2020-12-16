@@ -1,0 +1,29 @@
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojAssemblyReference.cache
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\PEDRO\Materias\inf-324\examen\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojAssemblyReference.cache
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\PEDRO\Materias\inf-324\proyecto\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
